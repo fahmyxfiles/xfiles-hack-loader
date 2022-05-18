@@ -1,0 +1,18 @@
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XLoader\bin\Release\XLoader.exe
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XLoader\bin\Release\XLoader.pdb
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XLoader\obj\x86\Release\XLoader.Properties.Resources.resources
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XLoader\obj\x86\Release\XLoader.csproj.GenerateResource.Cache
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XLoader\obj\x86\Release\XLoader.exe
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XLoader\obj\x86\Release\XLoader.pdb
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\Release\XLoader.exe
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\Release\XLoader.pdb
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\Release\XLoader.exe.config
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XLoader\obj\x86\Release\XLoader.csprojResolveAssemblyReference.cache
+E:\FXX\XFilesHackLoader\Release\XLoader.exe.config
+E:\FXX\XFilesHackLoader\Release\XLoader.exe
+E:\FXX\XFilesHackLoader\Release\XLoader.pdb
+E:\FXX\XFilesHackLoader\XLoader\obj\x86\Release\XLoader.Properties.Resources.resources
+E:\FXX\XFilesHackLoader\XLoader\obj\x86\Release\XLoader.exe
+E:\FXX\XFilesHackLoader\XLoader\obj\x86\Release\XLoader.pdb
+E:\FXX\XFilesHackLoader\XLoader\obj\x86\Release\XLoader.csprojResolveAssemblyReference.cache
+E:\FXX\XFilesHackLoader\XLoader\obj\x86\Release\XLoader.csproj.GenerateResource.Cache

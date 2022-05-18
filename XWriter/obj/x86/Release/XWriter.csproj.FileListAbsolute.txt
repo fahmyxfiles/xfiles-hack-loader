@@ -1,0 +1,20 @@
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XWriter\obj\x86\Release\XWriter.Properties.Resources.resources
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XWriter\obj\x86\Release\XWriter.csproj.GenerateResource.Cache
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XWriter\bin\Release\XWriter.exe
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XWriter\bin\Release\XWriter.pdb
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XWriter\bin\Release\XLoader.exe
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XWriter\bin\Release\XLoader.pdb
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XWriter\obj\x86\Release\XWriter.exe
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XWriter\obj\x86\Release\XWriter.pdb
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\Release\XWriter.exe
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\Release\XWriter.pdb
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\Release\Output\XWriter.exe
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\Release\Output\XWriter.pdb
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\Release\Output\XWriter.exe.config
+E:\FXX\XFilesHackLoader\Release\Output\XWriter.exe.config
+E:\FXX\XFilesHackLoader\Release\Output\XWriter.exe
+E:\FXX\XFilesHackLoader\Release\Output\XWriter.pdb
+E:\FXX\XFilesHackLoader\XWriter\obj\x86\Release\XWriter.Properties.Resources.resources
+E:\FXX\XFilesHackLoader\XWriter\obj\x86\Release\XWriter.exe
+E:\FXX\XFilesHackLoader\XWriter\obj\x86\Release\XWriter.pdb
+E:\FXX\XFilesHackLoader\XWriter\obj\x86\Release\XWriter.csproj.GenerateResource.Cache

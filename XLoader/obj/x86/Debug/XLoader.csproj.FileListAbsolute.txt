@@ -1,0 +1,14 @@
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XLoader\bin\Debug\XLoader.exe
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XLoader\bin\Debug\XLoader.pdb
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XLoader\obj\x86\Debug\XLoader.Properties.Resources.resources
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XLoader\obj\x86\Debug\XLoader.csproj.GenerateResource.Cache
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XLoader\obj\x86\Debug\XLoader.exe
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XLoader\obj\x86\Debug\XLoader.pdb
+C:\Users\FahmyXFiles\documents\visual studio 2010\Projects\XFilesHackLoader\XLoader\bin\Debug\XLoader.exe.config
+E:\FXX\XFilesHackLoader\XLoader\bin\Debug\XLoader.exe.config
+E:\FXX\XFilesHackLoader\XLoader\bin\Debug\XLoader.exe
+E:\FXX\XFilesHackLoader\XLoader\bin\Debug\XLoader.pdb
+E:\FXX\XFilesHackLoader\XLoader\obj\x86\Debug\XLoader.Properties.Resources.resources
+E:\FXX\XFilesHackLoader\XLoader\obj\x86\Debug\XLoader.csproj.GenerateResource.Cache
+E:\FXX\XFilesHackLoader\XLoader\obj\x86\Debug\XLoader.exe
+E:\FXX\XFilesHackLoader\XLoader\obj\x86\Debug\XLoader.pdb
