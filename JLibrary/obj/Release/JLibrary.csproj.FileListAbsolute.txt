@@ -1,0 +1,10 @@
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\JLibrary\bin\Release\JLibrary.dll
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\JLibrary\bin\Release\JLibrary.pdb
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\JLibrary\obj\Release\JLibrary.dll
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\JLibrary\obj\Release\JLibrary.pdb
+C:\Users\FahmyXFiles\documents\visual studio 2010\Projects\XFilesHackLoader\JLibrary\obj\Release\JLibrary.csprojResolveAssemblyReference.cache
+E:\FXX\XFilesHackLoader\JLibrary\bin\Release\JLibrary.dll
+E:\FXX\XFilesHackLoader\JLibrary\bin\Release\JLibrary.pdb
+E:\FXX\XFilesHackLoader\JLibrary\obj\Release\JLibrary.dll
+E:\FXX\XFilesHackLoader\JLibrary\obj\Release\JLibrary.pdb
+E:\FXX\XFilesHackLoader\JLibrary\obj\Release\JLibrary.csprojResolveAssemblyReference.cache

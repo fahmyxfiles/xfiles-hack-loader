@@ -1,0 +1,16 @@
+------- XFilesHack Payment Gateway -------
+Berikut merupakan detil pemesanan anda :
+- IDMember : 19
+- Nama Pengguna : fahmyxfiles
+- Paket yang dipesan : 
+- Durasi : 3 Hari
+- Jumlah PC : 1
+------------------------------------------
+Silahkan Transfer Pulsa ke :
+Provider : Telkomsel
+Nomor : 08122-9690-954
+Jumlah : Rp. 33.333
+NB : Nominal boleh lebih dari yang tertera, namun tidak boleh kurang.
+Misalkan yang di minta Rp. 163.043, anda dapat mengirim Rp.164.000 atau Rp.165.000
+Transaksi tidak akan diproses apabila anda mengirim kurang dari nominal yang tertera
+------------------------------------------

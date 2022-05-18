@@ -1,0 +1,8 @@
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\JLibrary\bin\Debug\JLibrary.dll
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\JLibrary\bin\Debug\JLibrary.pdb
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\JLibrary\obj\Debug\JLibrary.dll
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\JLibrary\obj\Debug\JLibrary.pdb
+E:\FXX\XFilesHackLoader\JLibrary\bin\Debug\JLibrary.dll
+E:\FXX\XFilesHackLoader\JLibrary\bin\Debug\JLibrary.pdb
+E:\FXX\XFilesHackLoader\JLibrary\obj\Debug\JLibrary.dll
+E:\FXX\XFilesHackLoader\JLibrary\obj\Debug\JLibrary.pdb

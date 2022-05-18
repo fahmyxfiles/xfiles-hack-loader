@@ -1,0 +1,20 @@
+----------------------------- XFilesHack Payment Gateway -----------------------------
+IDTransaksi : 100000
+Berikut merupakan detil pemesanan anda :
+- IDMember : 19
+- Nama Pengguna : fahmyxfiles
+- Paket yang dipesan : 
+- Durasi : 30 Hari
+- Jumlah PC : 7
+--------------------------------------------------------------------------------------
+Silahkan Transfer Bank / ATM ke :
+--------------------------------------------------------------------------------------
+Bank : Bank Negara Indonesia
+Nomor Rekening : 0373 996 196 a/n Aji Cahyono
+Jumlah : Rp. 693.196
+Waktu Pembayaran : 24 Jam
+--------------------------------------------------------------------------------------
+NB : Nominal yang di kirim HARUS SESUAI dengan jumlah yang tertera
+Misalkan yang di minta Rp.167.375, maka anda harus mengirim Rp.167.375
+Transaksi tidak akan diproses apabila jumlah pengiriman tidak sesuai
+--------------------------------------------------------------------------------------

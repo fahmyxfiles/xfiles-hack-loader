@@ -1,0 +1,23 @@
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XWriter\bin\Debug\XWriter.exe
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XWriter\bin\Debug\XWriter.pdb
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XWriter\obj\x86\Debug\XWriter.Properties.Resources.resources
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XWriter\obj\x86\Debug\XWriter.csproj.GenerateResource.Cache
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XWriter\obj\x86\Debug\XWriter.exe
+C:\Users\FahmyXFiles\Documents\Visual Studio 2010\Projects\XFilesHackLoader\XWriter\obj\x86\Debug\XWriter.pdb
+C:\Users\FahmyXFiles\documents\visual studio 2010\Projects\XFilesHackLoader\XWriter\bin\Debug\XWriter.exe.config
+E:\FXX\XFilesHackLoader\XWriter\bin\Debug\XWriter.exe.config
+E:\FXX\XFilesHackLoader\XWriter\bin\Debug\XWriter.exe
+E:\FXX\XFilesHackLoader\XWriter\bin\Debug\XWriter.pdb
+E:\FXX\XFilesHackLoader\XWriter\obj\x86\Debug\XWriter.Properties.Resources.resources
+E:\FXX\XFilesHackLoader\XWriter\obj\x86\Debug\XWriter.csproj.GenerateResource.Cache
+E:\FXX\XFilesHackLoader\XWriter\obj\x86\Debug\XWriter.exe
+E:\FXX\XFilesHackLoader\XWriter\obj\x86\Debug\XWriter.pdb
+G:\x\XFilesHackLoader\XFilesHackLoader\XWriter\bin\Debug\XWriter.exe.config
+G:\x\XFilesHackLoader\XFilesHackLoader\XWriter\bin\Debug\XWriter.exe
+G:\x\XFilesHackLoader\XFilesHackLoader\XWriter\bin\Debug\XWriter.pdb
+G:\x\XFilesHackLoader\XFilesHackLoader\XWriter\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\x\XFilesHackLoader\XFilesHackLoader\XWriter\obj\x86\Debug\XWriter.Properties.Resources.resources
+G:\x\XFilesHackLoader\XFilesHackLoader\XWriter\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\x\XFilesHackLoader\XFilesHackLoader\XWriter\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\x\XFilesHackLoader\XFilesHackLoader\XWriter\obj\x86\Debug\XWriter.exe
+G:\x\XFilesHackLoader\XFilesHackLoader\XWriter\obj\x86\Debug\XWriter.pdb

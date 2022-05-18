@@ -1,0 +1,9 @@
+----------------------------- XFilesHack Payment Gateway -----------------------------
+Berikut merupakan detil pemesanan anda :
+- IDMember : 19
+- Nama Pengguna : fahmyxfiles
+- Paket yang dipesan : 
+- Durasi : 3 Hari
+- Jumlah PC : 1
+
+--------------------------------------------------------------------------------------

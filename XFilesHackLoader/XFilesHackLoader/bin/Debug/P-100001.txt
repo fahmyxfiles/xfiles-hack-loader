@@ -1,0 +1,20 @@
+----------------------------- XFilesHack Payment Gateway -----------------------------
+IDTransaksi : 100001
+Berikut merupakan detil pemesanan anda :
+- IDMember : 19
+- Nama Pengguna : fahmyxfiles
+- Paket yang dipesan : 
+- Durasi : 1 Hari
+- Jumlah PC : 1
+--------------------------------------------------------------------------------------
+Silahkan Transfer Pulsa ke :
+--------------------------------------------------------------------------------------
+Provider : XL / Axis
+Nomor : 08783-4681-873
+Jumlah : Rp. 10.870
+Waktu Pembayaran : 24 Jam
+--------------------------------------------------------------------------------------
+NB : Nominal boleh lebih dari yang tertera, namun tidak boleh kurang.
+Misalkan yang di minta Rp. 163.043, anda dapat mengirim Rp.164.000 atau Rp.165.000
+Transaksi tidak akan diproses apabila anda mengirim kurang dari nominal yang tertera
+--------------------------------------------------------------------------------------
